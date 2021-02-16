@@ -67,6 +67,31 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d9d1717a-6e72-4ff1-b374-9bdd57b1ba82","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": {
+    "left": 12,
+    "top": 11,
+    "right": 12,
+    "bottom": 13,
+    "guideColour": [
+      4294902015,
+      4294902015,
+      4294902015,
+      4294902015,
+    ],
+    "highlightColour": 1728023040,
+    "highlightStyle": 1,
+    "enabled": true,
+    "tileMode": [
+      1,
+      0,
+      2,
+      1,
+      1,
+    ],
+    "resourceVersion": "1.0",
+    "loadedVersion": null,
+    "resourceType": "GMNineSliceData",
+  },
   "parent": {
     "name": "graphics",
     "path": "folders/graphics.yy",

@@ -207,6 +207,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"dca1c636-e618-48c2-8790-7cc04963a922","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "graphics",
     "path": "folders/graphics.yy",
