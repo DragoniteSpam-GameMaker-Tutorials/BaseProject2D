@@ -1,23 +1,23 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "bgm_idle_with_accordions",
+  "name": "se_footstep",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
   "bitDepth": 1,
   "bitRate": 128,
-  "compression": 3,
+  "compression": 0,
   "conversionMode": 0,
-  "duration": 30.052086,
+  "duration": 0.384333,
   "parent": {
     "name": "Base Tutorial 2D",
     "path": "Base Tutorial 2D.yyp",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "bgm_idle_with_accordions.wav",
+  "soundFile": "se_footstep.ogg",
   "type": 0,
   "volume": 1.0,
 }

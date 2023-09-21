@@ -46,6 +46,12 @@ if (casting_frame == 0) {
         }
         audio_play_sound(se_coin, 110, false);
     }
+    
+    if (dx != 0 || dy != 0) {
+        if (!audio_is_playing(se_footstep)) {
+            audio_play_sound(se_footstep, 100, false);
+        }
+    }
 } else {
     casting_frame = max(0, casting_frame - 0.25);
 }
