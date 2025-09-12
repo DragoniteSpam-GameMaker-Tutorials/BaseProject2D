@@ -1,7 +1,6 @@
 {
-  "resourceType": "GMSound",
-  "resourceVersion": "1.0",
-  "name": "bgm_idle_with_accordions",
+  "$GMSound": "",
+  "%Name": "bgm_idle_with_accordions",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -11,11 +10,14 @@
   "compression": 3,
   "conversionMode": 0,
   "duration": 30.052086,
+  "name": "bgm_idle_with_accordions",
   "parent": {
     "name": "Base Tutorial 2D",
     "path": "Base Tutorial 2D.yyp",
   },
   "preload": false,
+  "resourceType": "GMSound",
+  "resourceVersion": "2.0",
   "sampleRate": 44100,
   "soundFile": "bgm_idle_with_accordions.wav",
   "type": 0,

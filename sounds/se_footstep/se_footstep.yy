@@ -1,7 +1,6 @@
 {
-  "resourceType": "GMSound",
-  "resourceVersion": "1.0",
-  "name": "se_footstep",
+  "$GMSound": "",
+  "%Name": "se_footstep",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -11,11 +10,14 @@
   "compression": 0,
   "conversionMode": 0,
   "duration": 0.384333,
+  "name": "se_footstep",
   "parent": {
     "name": "Base Tutorial 2D",
     "path": "Base Tutorial 2D.yyp",
   },
   "preload": false,
+  "resourceType": "GMSound",
+  "resourceVersion": "2.0",
   "sampleRate": 44100,
   "soundFile": "se_footstep.ogg",
   "type": 0,
